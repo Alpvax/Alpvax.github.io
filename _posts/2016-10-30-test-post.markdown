@@ -1,0 +1,6 @@
+---
+published: true
+title: Test post
+layout: post
+---
+Sample post for testing.
